@@ -515,3 +515,4 @@ Signed,
 - Shivam Agarwal([@shivam-code97](https://github.com/shivam-code97)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Akshat Bhardwaj ([@akshatr](https://github.com/akshatr)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
 - Abhishek Sajwan ([@abhishek1997](https://github.com/abhishek1997)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
+- Sai Sri Vathsa(@[saisrivathsa](https://github.com/saisrivathsa)), Electronics Undergrad, IIT Roorkee, India.
